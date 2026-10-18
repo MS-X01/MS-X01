@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Mohammad Sadra Naderi, MS-X01. Security researcher and full-stack developer. Founder of ZVitoX." width="100%">
+  <img src="assets/banner.svg" alt="Mohammad Sadra Naderi, MS-X01. Security researcher and penetration tester. Full-stack developer. Founder of ZVitoX." width="100%">
 </p>
 
 <p align="center">
@@ -8,55 +8,55 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Tehran,_Iran-1D1D1D?style=flat-square&logo=googlemaps&logoColor=FF0000" alt="Tehran, Iran"> <img src="https://img.shields.io/badge/-English_%C2%B7_Persian-1D1D1D?style=flat-square&logo=googletranslate&logoColor=FF0000" alt="English, Persian"> <img src="https://img.shields.io/badge/-Authorized_targets_only-FF0000?style=flat-square&logoColor=FFFFFF" alt="Authorized targets only">
+  <img src="https://img.shields.io/badge/-Tehran,_Iran-1D1D1D?style=flat-square&logo=googlemaps&logoColor=FF0000" alt="Tehran, Iran">
+  <img src="https://img.shields.io/badge/-English_%C2%B7_Persian-1D1D1D?style=flat-square&logo=googletranslate&logoColor=FF0000" alt="English, Persian">
+  <img src="https://img.shields.io/badge/-Founder_of_ZVitoX-FF0000?style=flat-square&logoColor=FFFFFF" alt="Founder of ZVitoX">
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ### ~/about
 
-I'm Mohammad Sadra Naderi. I got into security by taking things apart and stayed because the work never repeats. Everything I know I taught myself, and most of the tools I use I ended up writing myself.
+I'm Mohammad Sadra Naderi, a penetration tester and security researcher who also builds. I write full-stack web applications, automate the repetitive parts of security work, and study psychology seriously, because most systems are run by people.
 
-Mostly I work on the web: find the bug, then build the thing that finds it faster next time. I run **ZVitoX**, a small security and software team. Every target I touch is one I'm authorized to test.
+I'm self-taught and I run **ZVitoX**, a small security and software team.
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <b>Break</b><br>
+      <b>Penetration testing and research</b><br>
       Web and API security<br>
       Bug bounty and vulnerability research<br>
-      Penetration testing, OSINT and recon<br>
+      OSINT and reconnaissance<br>
       Network, wireless, Android and Windows testing<br>
       Red-team fundamentals
     </td>
     <td valign="top" width="50%">
-      <b>Build</b><br>
+      <b>Full-stack development</b><br>
+      Web apps in Python, PHP and JavaScript<br>
       Automation for recon and bug hunting<br>
       Scrapers and big-data pipelines<br>
-      Full-stack web apps in Python, PHP and JavaScript<br>
       Telegram bots, admin panels, dashboards<br>
       Security tooling
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <b>Run</b><br>
+      <b>Psychology and persuasion</b><br>
+      Social engineering<br>
+      Negotiation and persuasion<br>
+      Body language and behavioral psychology<br>
+      Business consulting
+    </td>
+    <td valign="top" width="50%">
+      <b>Systems and data</b><br>
       Linux administration<br>
       Apache and Nginx<br>
       MySQL, MongoDB, SQLite<br>
       Hosting and support
     </td>
-    <td valign="top" width="50%">
-      <b>People</b><br>
-      Social engineering and persuasion<br>
-      Negotiation and body language<br>
-      Behavioral psychology<br>
-      Business consulting
-    </td>
   </tr>
 </table>
-
-Most breaches start with a person, so I study people as seriously as I study protocols.
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
@@ -100,7 +100,15 @@ Most breaches start with a person, so I study people as seriously as I study pro
   <img src="https://img.shields.io/badge/-Vim-1D1D1D?style=flat-square&logo=vim&logoColor=FF0000" alt="Vim">
 </p>
 
-**Offensive toolkit** (and most of what ships with Kali)
+**Learning now**
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2B2B2D?style=flat-square&logo=docker&logoColor=8A8A8E" alt="Docker">
+  <img src="https://img.shields.io/badge/-Kubernetes-2B2B2D?style=flat-square&logo=kubernetes&logoColor=8A8A8E" alt="Kubernetes">
+</p>
+
+<details>
+<summary><b>Security toolkit</b> (and most of what ships with Kali)</summary>
+<br>
 <p>
   <img src="https://img.shields.io/badge/-Burp_Suite-1D1D1D?style=flat-square&logo=burpsuite&logoColor=FF0000" alt="Burp Suite">
   <img src="https://img.shields.io/badge/-Metasploit-1D1D1D?style=flat-square&logo=metasploit&logoColor=FF0000" alt="Metasploit">
@@ -117,18 +125,13 @@ Most breaches start with a person, so I study people as seriously as I study pro
   <img src="https://img.shields.io/badge/-theHarvester-1D1D1D?style=flat-square" alt="theHarvester">
   <img src="https://img.shields.io/badge/-Sublist3r-1D1D1D?style=flat-square" alt="Sublist3r">
 </p>
-
-**Learning now**
-<p>
-  <img src="https://img.shields.io/badge/-Docker-2B2B2D?style=flat-square&logo=docker&logoColor=8A8A8E" alt="Docker">
-  <img src="https://img.shields.io/badge/-Kubernetes-2B2B2D?style=flat-square&logo=kubernetes&logoColor=8A8A8E" alt="Kubernetes">
-</p>
+</details>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ### ~/how-i-work
 
-1. Scope first. If it isn't authorized, it isn't a target.
+1. Look at the people before the packets.
 2. Recon is most of the job. The bug is usually the last ten percent.
 3. Anything I do twice becomes a script.
 4. If I found it, I write it down.
